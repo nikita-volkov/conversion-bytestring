@@ -1,7 +1,7 @@
 name:
   conversion-bytestring
 version:
-  1.0.0.1
+  1.0.1
 synopsis:
   "Conversion" instances for the "bytestring" library
 category:
@@ -53,4 +53,4 @@ library
     -- 
     conversion == 1.*,
     --
-    base-prelude >= 0.1.19 && < 0.2
+    base-prelude >= 0.1.19 && < 2
