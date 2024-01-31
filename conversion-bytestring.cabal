@@ -49,7 +49,7 @@ library
     Conversion.ByteString
   build-depends:
     -- 
-    bytestring >= 0.10.2 && < 0.12,
+    bytestring >= 0.10.2 && < 0.13,
     -- 
     conversion == 1.*,
     --
